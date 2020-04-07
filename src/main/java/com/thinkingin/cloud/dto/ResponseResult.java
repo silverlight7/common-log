@@ -19,4 +19,5 @@ public class ResponseResult<T> {
     private String message;
     private T result;
     private String errorMsg;
+
 }
